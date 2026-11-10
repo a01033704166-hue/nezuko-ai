@@ -28,7 +28,7 @@ VERSION:3.0
 N:${m.pushName || 'User'};;;;
 FN:${m.pushName || 'User'}
 item1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}
-item1.X-ABLabel:📞 WhatsApp
+item1.X-ABLabel:📞01033704166 WhatsApp
 ORG:BOT ✓
 TITLE:Verified
 END:VCARD`
